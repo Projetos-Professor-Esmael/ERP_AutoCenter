@@ -1,2 +1,2 @@
 # ERP_AutoCenter
- "Projeto de portfólio (ERP) aplicando práticas modernas de engenharia de software acelerada por IA (AI-Driven Development) para entrega ágil de funcionalidades complexas."
+"Desenvolvimento acadêmico (sem fins lucrativos) de um simulador de sistemas ERP, utilizando metodologia apoiada por IA para a modelagem de cenários e regras de negócios complexas."
